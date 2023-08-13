@@ -1,12 +1,23 @@
-## Hi there 👋
+# 용기나눔 - 용기를 나누고, 용기를 나눠요.
 
-<!--
+## 어플리케이션 이름의 의미는 무엇인가요?
+용기라는 단어에는 중의적인 표현이 있습니다. 물건을 담는 그릇을 뜻하는 용기(bowl)와, 두려움에도 불구하고 발휘돠는 마음을 뜻하는 용기(brave)가 있죠. '용기나눔'은 가게 음식을 분할하여 용기(bowl)에 나누어 담고, 이웃 주민과 나누어 먹음으로써 용기(brave)를 나누었으면 하는 바람으로 이름을 붙이게 되었습니다.
 
-**Here are some ideas to get you started:**
+## 용기나눔은 어떤 어플리케이션인가요?
+* 1인 가구는 배달 음식의 양과 최소 주문 비용, 배달팁에 대한 부담감이 꽤 클 것이라 생각했어요.
+* 1인 가구 뿐만이 아니라 다인 가구에서도 동일한 문제점을 인지하였답니다.
+* 그래서 용기나눔은 가게에서 음식을 나누어 담고, 이를 고객들에게 나누어 배달해주는 시스템을 생각했어요.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 시스템에 대해 더 자세하게 알 수 있을까요?
+* 시중에 존재하는 배달 주문 대행 어플리케이션들은 '1인분 주문'이란 시스템을 만들었어요.
+* 하지만, 고객 A는 '1인분 주문'이란 시스템이 존재해도 '최소 주문 비용'이란 기준에 부담감을 느끼게 되었어요.
+* 최소 주문 비용 충족을 위해 어쩔 수 없이 A는 불필요한 음식을 더 주문하게 되었어요.
+* A는 음식의 양이 많아 음식을 남기게 되었고, 최소 주문 비용을 채우기 위해 비용을 더 지불하게 되었어요.
+* 배달팁 또한 최소 주문 비용에 포함되지 않아 눈물을 머금고 지불 하게 되었죠.
+
+## 용기나눔은 이런 점에서 달라요
+* 최소 주문 비용을 충족하기 위해 양이 많은 음식을 고객 A, B가 비용을 모아 주문해요.
+* 고객 A, B는 각자 수령할 음식의 양을 협의 하에 결정해요.
+* 포장 수령이든 배달 수령이든 상관 없어요. (고객들은 배달 수령 시 배달팁에 대한 부담감을 느끼게 되겠지만, 최소 주문 비용이란 벽을 허물었으니까요!)
+* 고객들의 음식물 쓰레기 처리 양도 줄었을 거예요.
+* 비용에 대한 부담도 줄었어요.
